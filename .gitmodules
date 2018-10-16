@@ -1,0 +1,15 @@
+[submodule "machine_learning/neural_network/tensorflow_opencode"]
+	path = machine_learning/neural_network/tensorflow_opencode
+	url = git@github.com:JeongJae0815/models.git
+[submodule "sensors/mobile"]
+	path = sensors/mobile
+	url = git@github.com:JeongJae0815/mobile.git
+[submodule "sensors/multi_velodyne"]
+	path = sensors/multi_velodyne
+	url = git@github.com:JeongJae0815/Multi_Velodyne.git
+[submodule "machine_learning/neural_network/tutorial/tensorflow/basic_tutorial/tutorial_original"]
+	path = machine_learning/neural_network/tutorial/tensorflow/basic_tutorial/tutorial_original
+	url = git@github.com:JeongJae0815/DeepLearningZeroToAll.git
+[submodule "machine_learning/neural_network/tutorial/tensorflow/python_tflearn"]
+	path = machine_learning/neural_network/tutorial/tensorflow/python_tflearn
+	url = git@github.com:JeongJae0815/Python-Lectures.git
