@@ -13,3 +13,6 @@
 [submodule "machine_learning/neural_network/tutorial/tensorflow/python_tflearn"]
 	path = machine_learning/neural_network/tutorial/tensorflow/python_tflearn
 	url = git@github.com:JeongJae0815/Python-Lectures.git
+[submodule "machine_learning/neural_network/tutorial/tensorflow/tfslim/tfslim_original"]
+	path = machine_learning/neural_network/tutorial/tensorflow/tfslim/tfslim_original
+	url = git@github.com:JeongJae0815/tf-slim-tutorial.git
